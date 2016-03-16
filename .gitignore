@@ -1,0 +1,8 @@
+# PatternPack Example Library specific
+src/assets/css/patterns.css*
+src/assets/**/*patternpack-patterns.scss
+
+# Project directories
+node_modules/
+bower_components/
+html/

@@ -1,0 +1,14 @@
+.data-form {
+  & .form-item {
+    padding: 5px 0px;
+
+    & label {
+      margin-bottom: 5px;
+    }
+  }
+
+  & button {
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+}
